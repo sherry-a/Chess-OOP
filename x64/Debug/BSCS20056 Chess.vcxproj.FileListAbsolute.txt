@@ -1,0 +1,2 @@
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\BSCS20056 Chess\x64\Debug\BSCS20056 Chess.exe
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\x64\Debug\BSCS20056 Chess.exe

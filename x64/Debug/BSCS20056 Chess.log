@@ -1,0 +1,15 @@
+﻿  Board.cpp
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(209,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(276,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(280,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(294,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(297,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(381,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(406,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(675,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(679,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(747,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(751,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(655): warning C4715: 'Board::FindKingDynamicCasting': not all control paths return a value
+E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\Board.cpp(639): warning C4715: 'Board::FindKingPolymorphism': not all control paths return a value
+  BSCS20056 Chess.vcxproj -> E:\OneDrive - Higher Education Commission\Studies\OOP\Chess\chess\x64\Debug\BSCS20056 Chess.exe
